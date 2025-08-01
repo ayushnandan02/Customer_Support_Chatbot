@@ -13,7 +13,7 @@ A simple and efficient customer support chatbot designed to assist users, answer
 
 - Python
 - Machine Learning / NLP frameworks (e.g., NLTK, spaCy, TensorFlow, etc.)
-- Flask or Django (for web API)
+- Flask (for web API)
 - Frontend framework (HTML, CSS and JAVASCRIPT)
 
 ## Getting Started
